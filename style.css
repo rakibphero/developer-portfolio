@@ -73,11 +73,3 @@ div{
 footer p{
     text-align: center;
 }
-p{
-    color: dimgray;
-    display: block;
-    margin-block-start: 1em;
-    margin-inline-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
