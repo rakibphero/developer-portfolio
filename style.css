@@ -43,3 +43,41 @@ div{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-left-width: 7px;
+    border-left-style: solid;
+    border-left-color: initial;
+    border-image: linear-gradient(
+180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+.experience-area div{
+    box-shadow: 5px 7px 40px grey;
+    height: 80%;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(
+180deg, blue, cyan);
+    border-image-slice: 1;
+}
+.experience-area h3{
+    color: orange;
+}
+footer p{
+    text-align: center;
+}
+p{
+    color: dimgray;
+    display: block;
+    margin-block-start: 1em;
+    margin-inline-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
